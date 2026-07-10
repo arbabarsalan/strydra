@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>STRIDE — Built for the Ground Beneath You</title>
+  <link rel="stylesheet" href="/css/global.css" />
+  <link rel="stylesheet" href="/css/home.css" />
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────────────────────────── -->
+<header class="site-header">
+  <nav class="nav">
+    <a href="/" class="nav__logo">STRI<span>D</span>E</a>
+    <ul class="nav__links">
+      <li><a href="/" class="active">Home</a></li>
+      <li><a href="/shop">Shop</a></li>
+      <li><a href="/shop?category=Running">Running</a></li>
+      <li><a href="/shop?category=Outdoor">Outdoor</a></li>
+      <li><a href="/shop?category=Casual">Casual</a></li>
+    </ul>
+    <div class="nav__actions">
+      <a href="/cart" class="nav__cart">
+        Cart
+        <span class="cart-badge" id="cart-count">0</span>
+      </a>
+    </div>
+  </nav>
+</header>
+
+<!-- ── Hero ────────────────────────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero__copy container" style="max-width:600px; margin:0 auto 0 auto; padding-left:28px;">
+    <span class="hero__eyebrow">New Season 2026</span>
+    <h1 class="hero__headline">Built<br>for the<br><em>ground</em><br>beneath you.</h1>
+    <p class="hero__sub">Every surface has a shoe. Trail, court, city, or ceremony — find yours in the full collection.</p>
+    <div class="hero__cta">
+      <a href="/shop" class="btn btn--primary">Shop All Shoes</a>
+      <a href="/shop?category=Running" class="btn btn--outline">Running</a>
+    </div>
+  </div>
+  <div class="hero__visual">
+    <span class="hero__tag">New In</span>
+    <img src="https://picsum.photos/seed/stridehero/900/700" alt="Featured shoe" />
+    <div class="hero__watermark">STRIDE</div>
+  </div>
+</section>
+
+<!-- ── Categories ──────────────────────────────────────────────────────────── -->
+<section class="categories container" style="padding-top:48px;">
+  <div class="section-label">Categories</div>
+  <div class="categories__grid">
+    <a href="/shop?category=Running" class="cat-pill">
+      <span class="cat-pill__icon">🏃</span>Running
+    </a>
+    <a href="/shop?category=Casual" class="cat-pill">
+      <span class="cat-pill__icon">👟</span>Casual
+    </a>
+    <a href="/shop?category=Outdoor" class="cat-pill">
+      <span class="cat-pill__icon">🥾</span>Outdoor
+    </a>
+    <a href="/shop?category=Training" class="cat-pill">
+      <span class="cat-pill__icon">💪</span>Training
+    </a>
+    <a href="/shop?category=Formal" class="cat-pill">
+      <span class="cat-pill__icon">👞</span>Formal
+    </a>
+  </div>
+</section>
+
+<!-- ── Featured ─────────────────────────────────────────────────────────────── -->
+<section class="featured container">
+  <div class="featured__head">
+    <h2 class="featured__title">Featured</h2>
+    <a href="/shop" class="featured__link">View all →</a>
+  </div>
+  <div class="products-grid" id="featured-grid">
+    <div class="loading">Loading products…</div>
+  </div>
+</section>
+
+<!-- ── Footer ───────────────────────────────────────────────────────────────── -->
+<footer class="site-footer">
+  <div class="footer__inner">
+    <span class="footer__logo">STRI<span>D</span>E</span>
+    <ul class="footer__links">
+      <li><a href="#">Shipping</a></li>
+      <li><a href="#">Returns</a></li>
+      <li><a href="#">Size Guide</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+    <span class="footer__copy">© 2026 Stride. All rights reserved.</span>
+  </div>
+</footer>
+
+<script src="/js/cart.js"></script>
+<script src="/js/home.js"></script>
+</body>
+</html>

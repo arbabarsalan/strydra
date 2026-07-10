@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Apex Runner X9",
+    "category": "Running",
+    "price": 94.99,
+    "description": "Engineered mesh upper with a lightweight foam midsole. Built for high-mileage training with a responsive toe-off and breathable construction that keeps weight low.",
+    "sizes": [6, 7, 8, 9, 10, 11, 12],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/apx1a/800/800",
+      "https://picsum.photos/seed/apx1b/800/800",
+      "https://picsum.photos/seed/apx1c/800/800"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Court Zero Low",
+    "category": "Casual",
+    "price": 68.00,
+    "description": "Clean-line low-top with a premium suede toe cap and vulcanized rubber cupsole. The kind of sneaker that looks right every day without trying too hard.",
+    "sizes": [6, 7, 8, 9, 10, 11],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/cz2a/800/800",
+      "https://picsum.photos/seed/cz2b/800/800",
+      "https://picsum.photos/seed/cz2c/800/800"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Peak Summit Boot",
+    "category": "Outdoor",
+    "price": 129.00,
+    "description": "Full-grain waterproof leather upper with a seam-sealed collar and deep-lug outsole. Ankle support you can feel on switchback terrain. Rated to -10°C.",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/ps3a/800/800",
+      "https://picsum.photos/seed/ps3b/800/800",
+      "https://picsum.photos/seed/ps3c/800/800"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Drift Knit Slip",
+    "category": "Casual",
+    "price": 55.00,
+    "description": "One-piece recycled-knit upper, no laces, flexible EVA sole. It fits like a sock, walks like a sneaker. Best shoe for the days you just need to move.",
+    "sizes": [6, 7, 8, 9, 10],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/dk4a/800/800",
+      "https://picsum.photos/seed/dk4b/800/800",
+      "https://picsum.photos/seed/dk4c/800/800"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Volt Sprint Elite",
+    "category": "Running",
+    "price": 109.99,
+    "description": "Carbon-fiber plate embedded in a dual-density foam stack. Made for race day: 8-10mm drop, locked-down lacing system, and a rocker geometry that pushes you forward.",
+    "sizes": [7, 8, 9, 10, 11],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/vs5a/800/800",
+      "https://picsum.photos/seed/vs5b/800/800",
+      "https://picsum.photos/seed/vs5c/800/800"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cedar Oxford",
+    "category": "Formal",
+    "price": 145.00,
+    "description": "Hand-burnished calfskin oxford with a genuine Goodyear welt. Built to last, polishable, resoleable. The kind of shoe that gets better with age.",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "inStock": false,
+    "images": [
+      "https://picsum.photos/seed/co6a/800/800",
+      "https://picsum.photos/seed/co6b/800/800",
+      "https://picsum.photos/seed/co6c/800/800"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Iron Cross Trainer",
+    "category": "Training",
+    "price": 79.99,
+    "description": "Zero-drop, wide-platform training shoe. Flat and firm for lifting, grippy enough for lateral movement. Minimal stack height so you feel the ground, not just stand on it.",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/ic7a/800/800",
+      "https://picsum.photos/seed/ic7b/800/800",
+      "https://picsum.photos/seed/ic7c/800/800"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wave Canvas Classic",
+    "category": "Casual",
+    "price": 47.00,
+    "description": "Heavy cotton canvas upper, foxing-tape construction, flat rubber sole. No frills, no foam, no story — just a reliable daily driver that pairs with everything.",
+    "sizes": [6, 7, 8, 9, 10, 11],
+    "inStock": true,
+    "images": [
+      "https://picsum.photos/seed/wc8a/800/800",
+      "https://picsum.photos/seed/wc8b/800/800",
+      "https://picsum.photos/seed/wc8c/800/800"
+    ]
+  }
+]
