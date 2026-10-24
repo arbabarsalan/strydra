@@ -5,54 +5,82 @@
     "category": "Running",
     "price": 94.99,
     "description": "Engineered mesh upper with a lightweight foam midsole. Built for high-mileage training with a responsive toe-off and breathable construction that keeps weight low.",
-    "sizes": [6, 7, 8, 9, 10, 11, 12],
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/apx1a/800/800",
-      "https://picsum.photos/seed/apx1b/800/800",
-      "https://picsum.photos/seed/apx1c/800/800"
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
     "id": 2,
     "name": "Court Zero Low",
     "category": "Casual",
-    "price": 68.00,
+    "price": 68.0,
     "description": "Clean-line low-top with a premium suede toe cap and vulcanized rubber cupsole. The kind of sneaker that looks right every day without trying too hard.",
-    "sizes": [6, 7, 8, 9, 10, 11],
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/cz2a/800/800",
-      "https://picsum.photos/seed/cz2b/800/800",
-      "https://picsum.photos/seed/cz2c/800/800"
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
     "id": 3,
     "name": "Peak Summit Boot",
     "category": "Outdoor",
-    "price": 129.00,
+    "price": 129.0,
     "description": "Full-grain waterproof leather upper with a seam-sealed collar and deep-lug outsole. Ankle support you can feel on switchback terrain. Rated to -10°C.",
-    "sizes": [7, 8, 9, 10, 11, 12],
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/ps3a/800/800",
-      "https://picsum.photos/seed/ps3b/800/800",
-      "https://picsum.photos/seed/ps3c/800/800"
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
     "id": 4,
     "name": "Drift Knit Slip",
     "category": "Casual",
-    "price": 55.00,
+    "price": 55.0,
     "description": "One-piece recycled-knit upper, no laces, flexible EVA sole. It fits like a sock, walks like a sneaker. Best shoe for the days you just need to move.",
-    "sizes": [6, 7, 8, 9, 10],
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/dk4a/800/800",
-      "https://picsum.photos/seed/dk4b/800/800",
-      "https://picsum.photos/seed/dk4c/800/800"
+      "https://images.unsplash.com/photo-1562183241-b937e95585b6?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1584735175315-9d5df23860e6?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
@@ -61,26 +89,39 @@
     "category": "Running",
     "price": 109.99,
     "description": "Carbon-fiber plate embedded in a dual-density foam stack. Made for race day: 8-10mm drop, locked-down lacing system, and a rocker geometry that pushes you forward.",
-    "sizes": [7, 8, 9, 10, 11],
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/vs5a/800/800",
-      "https://picsum.photos/seed/vs5b/800/800",
-      "https://picsum.photos/seed/vs5c/800/800"
+      "https://images.unsplash.com/photo-1539185441755-769473a23570?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
     "id": 6,
     "name": "Cedar Oxford",
     "category": "Formal",
-    "price": 145.00,
+    "price": 145.0,
     "description": "Hand-burnished calfskin oxford with a genuine Goodyear welt. Built to last, polishable, resoleable. The kind of shoe that gets better with age.",
-    "sizes": [7, 8, 9, 10, 11, 12],
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "inStock": false,
     "images": [
-      "https://picsum.photos/seed/co6a/800/800",
-      "https://picsum.photos/seed/co6b/800/800",
-      "https://picsum.photos/seed/co6c/800/800"
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
@@ -89,26 +130,40 @@
     "category": "Training",
     "price": 79.99,
     "description": "Zero-drop, wide-platform training shoe. Flat and firm for lifting, grippy enough for lateral movement. Minimal stack height so you feel the ground, not just stand on it.",
-    "sizes": [7, 8, 9, 10, 11, 12],
+    "sizes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/ic7a/800/800",
-      "https://picsum.photos/seed/ic7b/800/800",
-      "https://picsum.photos/seed/ic7c/800/800"
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1543508282-6319a3e2621f?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=800&q=80&auto=format&fit=crop"
     ]
   },
   {
     "id": 8,
     "name": "Wave Canvas Classic",
     "category": "Casual",
-    "price": 47.00,
+    "price": 47.0,
     "description": "Heavy cotton canvas upper, foxing-tape construction, flat rubber sole. No frills, no foam, no story — just a reliable daily driver that pairs with everything.",
-    "sizes": [6, 7, 8, 9, 10, 11],
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
     "inStock": true,
     "images": [
-      "https://picsum.photos/seed/wc8a/800/800",
-      "https://picsum.photos/seed/wc8b/800/800",
-      "https://picsum.photos/seed/wc8c/800/800"
+      "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?w=800&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=80&auto=format&fit=crop"
     ]
   }
 ]

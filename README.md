@@ -1,4 +1,4 @@
-# STRIDE — Shoe Shop
+# STRYDRA — Shoe Shop
 
 A full-structure Express.js shoe shop with a professional frontend.
 

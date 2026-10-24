@@ -11,14 +11,14 @@
 
 function getCart() {
   try {
-    return JSON.parse(localStorage.getItem('stride_cart') || '[]');
+    return JSON.parse(localStorage.getItem('strydra_cart') || '[]');
   } catch {
     return [];
   }
 }
 
 function saveCart(cart) {
-  localStorage.setItem('stride_cart', JSON.stringify(cart));
+  localStorage.setItem('strydra_cart', JSON.stringify(cart));
   refreshCartCount();
 }
 

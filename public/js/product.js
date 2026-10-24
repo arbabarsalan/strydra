@@ -24,7 +24,7 @@ function renderProduct(p) {
 
   // breadcrumb
   document.getElementById('breadcrumb-name').textContent = p.name;
-  document.title = `${p.name} — STRIDE`;
+  document.title = `${p.name} — STRYDRA`;
 
   const inStock = p.inStock;
 
