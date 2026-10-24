@@ -1,12 +1,12 @@
 /**
  * formatPrice.js
- * Formats a number as a USD price string.
+ * Formats a number as a PKR price string.
  *
  * @param {number} amount
- * @returns {string}  e.g. "$94.99"
+ * @returns {string}  e.g. "PKR 4,950"
  */
 function formatPrice(amount) {
-  return `$${Number(amount).toFixed(2)}`;
+  return `PKR ${Number(amount).toLocaleString('en-PK')}`;
 }
 
 module.exports = { formatPrice };
