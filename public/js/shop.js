@@ -22,7 +22,7 @@ function buildProductCard(product) {
       <div class="product-card__cat">${product.category}</div>
       <div class="product-card__name">${product.name}</div>
       <div class="product-card__footer">
-        <span class="product-card__price">$${product.price.toFixed(2)}</span>
+        <span class="product-card__price">PKR ${product.price.toLocaleString('en-PK')}</span>
         <span class="product-card__arrow">→</span>
       </div>
     </div>
@@ -50,8 +50,8 @@ async function loadProducts() {
     if (products.length === 0) {
       grid.innerHTML = `
         <div class="empty-state">
-          <div class="empty-state__icon">👟</div>
-          <h3>No shoes found</h3>
+          <div class="empty-state__icon">🧵</div>
+          <h3>No items found</h3>
           <p>Try a different category or clear your filters.</p>
         </div>
       `;

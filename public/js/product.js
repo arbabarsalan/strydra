@@ -24,7 +24,7 @@ function renderProduct(p) {
 
   // breadcrumb
   document.getElementById('breadcrumb-name').textContent = p.name;
-  document.title = `${p.name} — STRIDE`;
+  document.title = `${p.name} — LIBAS`;
 
   const inStock = p.inStock;
 
@@ -47,7 +47,7 @@ function renderProduct(p) {
     <div class="product-info">
       <div class="product-info__cat">${p.category}</div>
       <h1 class="product-info__name">${p.name}</h1>
-      <div class="product-info__price">$${p.price.toFixed(2)}</div>
+      <div class="product-info__price">PKR ${p.price.toLocaleString('en-PK')}</div>
 
       <div class="stock-badge ${inStock ? '' : 'stock-badge--oos'}">
         ${inStock ? 'In Stock — Ships in 2–4 days' : 'Out of Stock'}
@@ -58,7 +58,7 @@ function renderProduct(p) {
       ${inStock ? `
         <!-- Size picker -->
         <div class="size-picker__label">
-          <span>Size (US)</span>
+          <span>Size</span>
           <a href="#">Size guide</a>
         </div>
         <div class="size-grid" id="size-grid">
