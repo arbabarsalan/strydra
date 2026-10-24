@@ -1,385 +1,114 @@
 [
   {
     "id": 1,
-    "name": "Classic Kurta \u2014 Off-White",
-    "category": "Men",
-    "price": 4850,
-    "description": "Breathable cotton kurta with a mandarin collar and tonal buttons. Cut relaxed through the chest, falls just right over shalwar or jeans. An everyday staple that never looks ordinary.",
-    "sizes": "Men",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Apex Runner X9",
+    "category": "Running",
+    "price": 94.99,
+    "description": "Engineered mesh upper with a lightweight foam midsole. Built for high-mileage training with a responsive toe-off and breathable construction that keeps weight low.",
+    "sizes": [6, 7, 8, 9, 10, 11, 12],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/classic1a/800/800",
-      "https://picsum.photos/seed/classic1b/800/800",
-      "https://picsum.photos/seed/classic1c/800/800"
+      "https://picsum.photos/seed/apx1a/800/800",
+      "https://picsum.photos/seed/apx1b/800/800",
+      "https://picsum.photos/seed/apx1c/800/800"
     ]
   },
   {
     "id": 2,
-    "name": "Premier Kurta \u2014 Deep Navy",
-    "category": "Men",
-    "price": 7450,
-    "description": "Premium blended fabric with a subtle sheen, finished with contrast piping along the collar and placket. Made for Eid dinners, engagements, and every event in between.",
-    "sizes": "Men",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Court Zero Low",
+    "category": "Casual",
+    "price": 68.00,
+    "description": "Clean-line low-top with a premium suede toe cap and vulcanized rubber cupsole. The kind of sneaker that looks right every day without trying too hard.",
+    "sizes": [6, 7, 8, 9, 10, 11],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/premier2a/800/800",
-      "https://picsum.photos/seed/premier2b/800/800",
-      "https://picsum.photos/seed/premier2c/800/800"
+      "https://picsum.photos/seed/cz2a/800/800",
+      "https://picsum.photos/seed/cz2b/800/800",
+      "https://picsum.photos/seed/cz2c/800/800"
     ]
   },
   {
     "id": 3,
-    "name": "Kameez Shalwar \u2014 Sand",
-    "category": "Men",
-    "price": 5250,
-    "description": "Classic two-piece kameez shalwar in soft-washed sand cotton. Lightweight enough for summer afternoons, sharp enough for Friday prayers.",
-    "sizes": "Men",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Peak Summit Boot",
+    "category": "Outdoor",
+    "price": 129.00,
+    "description": "Full-grain waterproof leather upper with a seam-sealed collar and deep-lug outsole. Ankle support you can feel on switchback terrain. Rated to -10°C.",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/kameez3a/800/800",
-      "https://picsum.photos/seed/kameez3b/800/800",
-      "https://picsum.photos/seed/kameez3c/800/800"
+      "https://picsum.photos/seed/ps3a/800/800",
+      "https://picsum.photos/seed/ps3b/800/800",
+      "https://picsum.photos/seed/ps3c/800/800"
     ]
   },
   {
     "id": 4,
-    "name": "Waistcoat Kurta Set \u2014 Olive",
-    "category": "Men",
-    "price": 9800,
-    "description": "Embroidered waistcoat layered over a solid kurta, sold as a set. The waistcoat carries light threadwork on the collar; pair it with a plain shalwar and you are dressed.",
-    "sizes": "Men",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Drift Knit Slip",
+    "category": "Casual",
+    "price": 55.00,
+    "description": "One-piece recycled-knit upper, no laces, flexible EVA sole. It fits like a sock, walks like a sneaker. Best shoe for the days you just need to move.",
+    "sizes": [6, 7, 8, 9, 10],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/waistcoat4a/800/800",
-      "https://picsum.photos/seed/waistcoat4b/800/800",
-      "https://picsum.photos/seed/waistcoat4c/800/800"
+      "https://picsum.photos/seed/dk4a/800/800",
+      "https://picsum.photos/seed/dk4b/800/800",
+      "https://picsum.photos/seed/dk4c/800/800"
     ]
   },
   {
     "id": 5,
-    "name": "Cotton Panjabi \u2014 Charcoal",
-    "category": "Men",
-    "price": 4250,
-    "description": "Straight-cut panjabi with full sleeves and a clean placket. Charcoal cotton that survives weekly washes and keeps its colour.",
-    "sizes": "Men",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Volt Sprint Elite",
+    "category": "Running",
+    "price": 109.99,
+    "description": "Carbon-fiber plate embedded in a dual-density foam stack. Made for race day: 8-10mm drop, locked-down lacing system, and a rocker geometry that pushes you forward.",
+    "sizes": [7, 8, 9, 10, 11],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/cotton5a/800/800",
-      "https://picsum.photos/seed/cotton5b/800/800",
-      "https://picsum.photos/seed/cotton5c/800/800"
+      "https://picsum.photos/seed/vs5a/800/800",
+      "https://picsum.photos/seed/vs5b/800/800",
+      "https://picsum.photos/seed/vs5c/800/800"
     ]
   },
   {
     "id": 6,
-    "name": "Designer Kurta \u2014 Ivory Embroidered",
-    "category": "Men",
-    "price": 11500,
-    "description": "Statement kurta with hand-guided embroidery across the neckline. Ivory-on-ivory thread keeps it quiet; the cut does the talking.",
-    "sizes": "Men",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Cedar Oxford",
+    "category": "Formal",
+    "price": 145.00,
+    "description": "Hand-burnished calfskin oxford with a genuine Goodyear welt. Built to last, polishable, resoleable. The kind of shoe that gets better with age.",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "inStock": false,
     "images": [
-      "https://picsum.photos/seed/designer6a/800/800",
-      "https://picsum.photos/seed/designer6b/800/800",
-      "https://picsum.photos/seed/designer6c/800/800"
+      "https://picsum.photos/seed/co6a/800/800",
+      "https://picsum.photos/seed/co6b/800/800",
+      "https://picsum.photos/seed/co6c/800/800"
     ]
   },
   {
     "id": 7,
-    "name": "Lawn 3-Piece \u2014 Emerald Bloom",
-    "category": "Women",
-    "price": 6950,
-    "description": "Printed lawn shirt with dyed-to-match trousers and a chiffon dupatta. Soft, breathable, and built to last the whole season.",
-    "sizes": "Women",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Iron Cross Trainer",
+    "category": "Training",
+    "price": 79.99,
+    "description": "Zero-drop, wide-platform training shoe. Flat and firm for lifting, grippy enough for lateral movement. Minimal stack height so you feel the ground, not just stand on it.",
+    "sizes": [7, 8, 9, 10, 11, 12],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/lawn7a/800/800",
-      "https://picsum.photos/seed/lawn7b/800/800",
-      "https://picsum.photos/seed/lawn7c/800/800"
+      "https://picsum.photos/seed/ic7a/800/800",
+      "https://picsum.photos/seed/ic7b/800/800",
+      "https://picsum.photos/seed/ic7c/800/800"
     ]
   },
   {
     "id": 8,
-    "name": "Embroidered Kurta \u2014 Blush",
-    "category": "Women",
-    "price": 5450,
-    "description": "Straight-fit kurta in blush pink with resham embroidery along the neckline. Wear it with trousers for work or with a dupatta for evenings.",
-    "sizes": "Women",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
+    "name": "Wave Canvas Classic",
+    "category": "Casual",
+    "price": 47.00,
+    "description": "Heavy cotton canvas upper, foxing-tape construction, flat rubber sole. No frills, no foam, no story — just a reliable daily driver that pairs with everything.",
+    "sizes": [6, 7, 8, 9, 10, 11],
+    "inStock": true,
     "images": [
-      "https://picsum.photos/seed/embroidered8a/800/800",
-      "https://picsum.photos/seed/embroidered8b/800/800",
-      "https://picsum.photos/seed/embroidered8c/800/800"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Chiffon Party Suit \u2014 Midnight",
-    "category": "Women",
-    "price": 14500,
-    "description": "Three-piece formal in midnight chiffon with sequin border work. Falls fluidly, photographs beautifully, and earns its place in the wardrobe.",
-    "sizes": "Women",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "images": [
-      "https://picsum.photos/seed/chiffon9a/800/800",
-      "https://picsum.photos/seed/chiffon9b/800/800",
-      "https://picsum.photos/seed/chiffon9c/800/800"
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Cotton 2-Piece \u2014 Ivory",
-    "category": "Women",
-    "price": 4250,
-    "description": "Everyday two-piece in breathable ivory cotton with minimal block print at the hem. The one you will reach for on busy mornings.",
-    "sizes": "Women",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "images": [
-      "https://picsum.photos/seed/cotton10a/800/800",
-      "https://picsum.photos/seed/cotton10b/800/800",
-      "https://picsum.photos/seed/cotton10c/800/800"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Fancy Maxi \u2014 Maroon Velvet",
-    "category": "Women",
-    "price": 12500,
-    "description": "Floor-length maxi in maroon velvet with a gold-foil print yoke. Winter weddings sorted.",
-    "sizes": "Women",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "images": [
-      "https://picsum.photos/seed/fancy11a/800/800",
-      "https://picsum.photos/seed/fancy11b/800/800",
-      "https://picsum.photos/seed/fancy11c/800/800"
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Printed Kurti \u2014 Teal",
-    "category": "Women",
-    "price": 3450,
-    "description": "Short printed kurti in teal with a straight silhouette. Works over jeans, tights, or trousers without a second thought.",
-    "sizes": "Women",
-    "inStock": [
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL"
-    ],
-    "images": [
-      "https://picsum.photos/seed/printed12a/800/800",
-      "https://picsum.photos/seed/printed12b/800/800",
-      "https://picsum.photos/seed/printed12c/800/800"
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Boys Kurta \u2014 White",
-    "category": "Kids",
-    "price": 2250,
-    "description": "Crisp white cotton kurta for the little gentleman. Machine washable, because we know.",
-    "sizes": "Kids",
-    "inStock": [
-      "2-3Y",
-      "4-5Y",
-      "6-7Y",
-      "8-9Y",
-      "10-12Y"
-    ],
-    "images": [
-      "https://picsum.photos/seed/boys13a/800/800",
-      "https://picsum.photos/seed/boys13b/800/800",
-      "https://picsum.photos/seed/boys13c/800/800"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Girls Frock \u2014 Peach Bloom",
-    "category": "Kids",
-    "price": 3450,
-    "description": "Tiered frock in peach georgette with a satin waistband. Twirl-tested and approved.",
-    "sizes": "Kids",
-    "inStock": [
-      "2-3Y",
-      "4-5Y",
-      "6-7Y",
-      "8-9Y",
-      "10-12Y"
-    ],
-    "images": [
-      "https://picsum.photos/seed/girls14a/800/800",
-      "https://picsum.photos/seed/girls14b/800/800",
-      "https://picsum.photos/seed/girls14c/800/800"
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Kids Shalwar Kameez Set \u2014 Sage",
-    "category": "Kids",
-    "price": 2950,
-    "description": "Matching shalwar kameez set in soft sage cotton, sized for school events and family dinners alike.",
-    "sizes": "Kids",
-    "inStock": [
-      "2-3Y",
-      "4-5Y",
-      "6-7Y",
-      "8-9Y",
-      "10-12Y"
-    ],
-    "images": [
-      "https://picsum.photos/seed/kids15a/800/800",
-      "https://picsum.photos/seed/kids15b/800/800",
-      "https://picsum.photos/seed/kids15c/800/800"
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Lawn Unstitched 3-Piece \u2014 Bloom",
-    "category": "Unstitched",
-    "price": 5950,
-    "description": "Two printed lawn shirt pieces with a matching dupatta and trouser fabric. Take it to your darzi and get it made your way.",
-    "sizes": "Unstitched",
-    "inStock": [
-      "3-Piece",
-      "2-Piece"
-    ],
-    "images": [
-      "https://picsum.photos/seed/lawn16a/800/800",
-      "https://picsum.photos/seed/lawn16b/800/800",
-      "https://picsum.photos/seed/lawn16c/800/800"
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Khaddar Unstitched Suit \u2014 Charcoal",
-    "category": "Unstitched",
-    "price": 4850,
-    "description": "Winter-weight khaddar in deep charcoal with self-button detailing. Warm, textured, and ready for the tailor.",
-    "sizes": "Unstitched",
-    "inStock": [
-      "3-Piece",
-      "2-Piece"
-    ],
-    "images": [
-      "https://picsum.photos/seed/khaddar17a/800/800",
-      "https://picsum.photos/seed/khaddar17b/800/800",
-      "https://picsum.photos/seed/khaddar17c/800/800"
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Embroidered Chiffon Unstitched \u2014 Rose",
-    "category": "Unstitched",
-    "price": 9800,
-    "description": "Embroidered chiffon front with plain back and dyed chiffon dupatta. Heavy on the neckline, light everywhere else.",
-    "sizes": "Unstitched",
-    "inStock": [
-      "3-Piece",
-      "2-Piece"
-    ],
-    "images": [
-      "https://picsum.photos/seed/embroidered18a/800/800",
-      "https://picsum.photos/seed/embroidered18b/800/800",
-      "https://picsum.photos/seed/embroidered18c/800/800"
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Wool Shawl \u2014 Charcoal Weave",
-    "category": "Accessories",
-    "price": 2850,
-    "description": "Handloom wool shawl with a fine chevron weave and tassel finish. Heavy enough for winter mornings, elegant enough to gift.",
-    "sizes": "Accessories",
-    "inStock": [
-      "Free Size"
-    ],
-    "images": [
-      "https://picsum.photos/seed/wool19a/800/800",
-      "https://picsum.photos/seed/wool19b/800/800",
-      "https://picsum.photos/seed/wool19c/800/800"
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Cotton Scarf \u2014 Sand",
-    "category": "Accessories",
-    "price": 950,
-    "description": "Everyday cotton scarf in soft sand with frayed edges. Doubles as a dupatta when you travel light.",
-    "sizes": "Accessories",
-    "inStock": [
-      "Free Size"
-    ],
-    "images": [
-      "https://picsum.photos/seed/cotton20a/800/800",
-      "https://picsum.photos/seed/cotton20b/800/800",
-      "https://picsum.photos/seed/cotton20c/800/800"
+      "https://picsum.photos/seed/wc8a/800/800",
+      "https://picsum.photos/seed/wc8b/800/800",
+      "https://picsum.photos/seed/wc8c/800/800"
     ]
   }
 ]

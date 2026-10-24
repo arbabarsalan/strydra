@@ -1,7 +1,7 @@
 {
-  "name": "libas-wear-store",
+  "name": "stride-shoe-shop",
   "version": "1.0.0",
-  "description": "LIBAS \u2014 Express.js Eastern wear clothing store",
+  "description": "STRIDE — Express.js shoe shop",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",

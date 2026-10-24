@@ -19,7 +19,7 @@ function buildProductCard(product) {
       <div class="product-card__cat">${product.category}</div>
       <div class="product-card__name">${product.name}</div>
       <div class="product-card__footer">
-        <span class="product-card__price">PKR ${product.price.toLocaleString('en-PK')}</span>
+        <span class="product-card__price">$${product.price.toFixed(2)}</span>
         <span class="product-card__arrow">→</span>
       </div>
     </div>

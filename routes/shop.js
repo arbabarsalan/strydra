@@ -6,7 +6,7 @@ const shopController = require('../controllers/shopController');
 router.get('/', shopController.getShop);
 
 // GET /shop/api      →  return all products as JSON
-// Supports query params: ?category=Men  ?sort=price-asc | price-desc
+// Supports query params: ?category=Running  ?sort=price-asc | price-desc
 router.get('/api', shopController.getProductsJson);
 
 module.exports = router;

@@ -11,14 +11,14 @@
 
 function getCart() {
   try {
-    return JSON.parse(localStorage.getItem('libas_cart') || '[]');
+    return JSON.parse(localStorage.getItem('stride_cart') || '[]');
   } catch {
     return [];
   }
 }
 
 function saveCart(cart) {
-  localStorage.setItem('libas_cart', JSON.stringify(cart));
+  localStorage.setItem('stride_cart', JSON.stringify(cart));
   refreshCartCount();
 }
 

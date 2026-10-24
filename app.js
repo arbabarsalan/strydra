@@ -29,7 +29,7 @@ app.use((req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`\n  LIBAS is running → http://localhost:${PORT}\n`);
+  console.log(`\n  STRIDE is running → http://localhost:${PORT}\n`);
 });
 
 module.exports = app;
